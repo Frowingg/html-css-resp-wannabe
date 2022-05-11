@@ -161,3 +161,14 @@ img {
 
     }
 }   
+
+
+/* TABLET */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .container{
+        width: 90%;        
+    }
+    .row{
+        flex-direction: row;
+    }
+}

@@ -158,7 +158,9 @@ img {
     .why-us .col-right{
         width: 100%;
         margin-bottom: 70px;
-
+    }
+    .why-us {
+        background-color: black;
     }
 }   
 
